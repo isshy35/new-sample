@@ -1,5 +1,7 @@
-Kubernetes Deployment with ArgoCD and GitHub Actions
+Kubernetes Deployment with ArgoCD and GitHub Actions.
+
 This guide demonstrates how to deploy a sample application to Kubernetes using ArgoCD for continuous deployment and GitHub Actions for automated testing and synchronization.
+
 Prerequisites
 
 Kubernetes Cluster: Minikube, Kind, or any Kubernetes cluster
